@@ -1,0 +1,25 @@
+{
+  "name": "barry",
+  "version": "1.0.0",
+  "description": "Knom your server ip developper friendly",
+  "main": "src/index.js",
+  "bin": {
+    "barry": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ssh",
+    "ssh-keygen",
+    "server",
+    "ip",
+    "server-ip",
+    "nslookup",
+    "address"
+  ],
+  "author": "aboucodeur",
+  "license": "MIT"
+}
