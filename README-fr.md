@@ -1,6 +1,6 @@
-# IPSERVER
+# BARRY
 
-- ipserver est une commande qui a commencer par passion ,
+- barry est une commande qui a commencer par passion ,
         à chaque fois je part consulter le site de linode pour 
         connaître l'ip de mon serveur pour me ssh dessus
         souvent je veux que ça soit rapide donc j'ai commencé a utilisé 

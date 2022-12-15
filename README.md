@@ -1,6 +1,6 @@
-# Barry
+# BARRT
 
-- ipserver is a command that started with passion,
+- barry is a command that started with passion,
         every time I go to consult the linode site for
         know the ip of my server to ssh me on it
         often I want it to be fast so I started using
