@@ -1,20 +1,29 @@
-# IPSERVER
+#IPSERVER
 
-- ipserver est une commande qui a commencer par passion ,
-        à chaque fois je part consulter le site de linode pour 
-        connaître l'ip de mon serveur pour me ssh dessus
-        souvent je veux que ça soit rapide donc j'ai commencé a utilisé 
-        la commande `nslookup` copier coller l'adresse du serveur sur la 
-        sixième ligne deuxième champs . Donc la commande `barry [sommething.com]` a ete mise en place
-        avec une exploitation de la commande `nslookup`
+- ipserver is a command that started with passion,
+        every time I go to consult the linode site for
+        know the ip of my server to ssh me on it
+        often I want it to be fast so I started using
+        the command `nslookup` copy paste the address of the server on the
+        sixth line second fields . So the command `barry [sommething.com]` was set up
+        with an exploit of the `nslookup` command
 
 ---------------
 
-## Outils et Technologies  
+## Tools and Technologies
 - linux and unix command `nslookup`
 - Node js (npm)
-- Bash (sh)
+- bash (sh)
 
 
 ## Contribution
-- Si vous voulez forker le projet rapidement pour ajouter vos contributions
+- If you want to fork the project quickly to add your contributions
+
+## How to install ?
+- Clone this project
+`git clone https://github.com/abococoder/barry.git`
+
+- The package is not available on npm and install locally on your system
+`npm install -g .`
+- Type the command barry to execute
+        `barry`
